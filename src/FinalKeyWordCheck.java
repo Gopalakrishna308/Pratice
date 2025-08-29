@@ -3,7 +3,7 @@ public class FinalKeyWordCheck {
 	
 	public static void main(String[] args) {
 		
-		final int i = 10;
+		final int num = 10;
 		
 		
 	}
@@ -15,6 +15,7 @@ public class FinalKeyWordCheck {
 	
 	public final void test2() {
 		System.out.println("from test1()");
+	 
 	}
 
 }
